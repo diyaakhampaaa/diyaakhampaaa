@@ -17,15 +17,16 @@ I'm passionate about building intelligent applications that solve real-world pro
 
 -  **B.Tech Information Technology** (2029)
 -  Currently focused on **Artificial Intelligence & Machine Learning**
--  Learning **Full Stack Development**
+-  **Full Stack Development**
 -  Solving **Data Structures & Algorithms** using **C++**
--  Contributing to **Open Source (GSSoC & Beginner-Friendly Projects)**
+-  Contributing to **Open Source**
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Programming Languages
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,12 +36,13 @@ I'm passionate about building intelligent applications that solve real-world pro
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### AI & Data Science
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -50,6 +52,7 @@ I'm passionate about building intelligent applications that solve real-world pro
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-khampa-4b9851302/)
+
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khampadiya888@gmail.com)
 
 <div align="center">
