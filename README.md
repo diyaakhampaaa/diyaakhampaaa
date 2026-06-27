@@ -47,10 +47,9 @@ I'm passionate about building intelligent applications that solve real-world pro
 <p>
 <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
-
-* NumPy
-* Pandas
-* Jupyter Notebook
+<p>
+<img src="https://skillicons.dev/icons?i=NumPy,Pandas,Jupyter Notebook" />
+</p>
 
 ---
 
@@ -60,33 +59,15 @@ I'm passionate about building intelligent applications that solve real-world pro
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-# GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=diyaakhampaaa&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaakhampaaa&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=diyaakhampaaa&theme=tokyonight"/>
-
-</p>
-
 ---
 
 # Connect With Me
 
 <p align="left">
 
-💼 **LinkedIn**
-https://www.linkedin.com/in/diya-khampa-4b9851302/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-khampa-4b9851302/)
 
-📧 **Email**
-[khampadiya888@gmail.com](mailto:khampadiya888@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khampadiya888@gmail.com)
 
 </p>
 
