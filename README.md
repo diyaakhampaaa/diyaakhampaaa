@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Diya%20Khampa&fontSize=42&fontColor=fff&animation=twinSpin&fontAlignY=32&desc=B.Tech%20Information%20Technology%20'29&descAlignY=55&descSize=16&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=180&section=header&text=Diya%20Khampa&fontSize=42&fontColor=fff&animation=twinSpin&fontAlignY=32&desc=B.Tech%20Information%20Technology%20'29&descAlignY=55&descSize=16&descColor=ffffff"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer+in+Progress;Open+Source+Contributor;Learning+Something+New+Every+Day" />
 
@@ -52,10 +52,9 @@ I'm passionate about building intelligent applications that solve real-world pro
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-khampa-4b9851302/)
-
-- khampadiya888@gmail.com
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=khampadiya888@gmail.com)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=100&section=footer"/>
 </div>
 
