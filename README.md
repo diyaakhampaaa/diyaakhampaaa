@@ -1,32 +1,27 @@
-<div align="center">
+```md
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Diya%20Khampa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20in%20Progress%20|%20Full%20Stack%20Developer&descAlignY=55"/>
 
-# I'm DIYA KHAMPA
+<h1 align="center">Hi, I'm DIYA KHAMPA</h1>
 
-### B.Tech Information Technology '29
+<h3 align="center">
+B.Tech Information Technology '29 <br>
+AI Engineer in Progress • Full Stack Developer • Open Source Contributor
+</h3>
 
-### AI Engineer in Progress | Full-Stack Developer | Open Source Contributor
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer+in+Progress;Open+Source+Contributor;Learning+Something+New+Every+Day" />
-
-<p>
-I'm passionate about building intelligent applications that solve real-world problems through Artificial Intelligence and Software Development. Currently exploring Machine Learning, Full-Stack Development, and Open Source while strengthening my problem-solving skills with Data Structures & Algorithms.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+AI+Projects;Full+Stack+Developer;Open+Source+Contributor;Learning+Something+New+Every+Day"/>
 </p>
-
-</div>
 
 ---
 
 # About Me
 
-**B.Tech Information Technology** (2029)
-
- Currently focused on **Artificial Intelligence & Machine Learning**
-
- **Full Stack Development**
-
- Solving **Data Structures & Algorithms** using **C++**
-
- Contributing to **Open Source**
+-  **B.Tech in Information Technology** (2029)
+-  Currently focused on **Artificial Intelligence & Machine Learning**
+-  **Full Stack Development**
+-  Solving **Data Structures & Algorithms** using **C++**
+-  Currently improving my skills in **Python, SQL, JavaScript, and AI**
+-  Contributing to **Open Source (GSSoC)**
 
 ---
 
@@ -35,7 +30,7 @@ I'm passionate about building intelligent applications that solve real-world pro
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,mysql" />
 </p>
 
 **Also familiar with:** R
@@ -45,10 +40,13 @@ I'm passionate about building intelligent applications that solve real-world pro
 ### AI & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=opencv" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=NumPy,Pandas,JupyterNotebook" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
 </p>
 
 ---
@@ -61,16 +59,45 @@ I'm passionate about building intelligent applications that solve real-world pro
 
 ---
 
-# Connect With Me
+# GitHub Stats
 
-<p align="left">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-khampa-4b9851302/)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khampadiya888@gmail.com)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
+# GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diyaakhampaaa&theme=tokyo-night"/>
+</p>
+
+---
+
+# Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/diya-khampa-4b9851302/?skipRedirect=true">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:khampadiya888@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
