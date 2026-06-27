@@ -1,6 +1,6 @@
 <div align="center">
  
-##DIYA KHAMPA
+## DIYA KHAMPA
 ### B.Tech Information Technology '29
 
 ### AI Engineer in Progress | Full-Stack Developer | Open Source Contributor
