@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1b4b,100:0a0a2e&height=180&section=header&text=Diya%20Khampa&fontSize=42&fontColor=fff&animation=twinSpin&fontAlignY=32&desc=B.Tech%20Information%20Technology%20'29&descAlignY=55&descSize=16&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000C2D,50:002080,100:000C2D&height=180&section=header&text=Diya%20Khampa&fontSize=42&fontColor=fff&animation=twinSpin&fontAlignY=32&desc=B.Tech%20Information%20Technology%20'29&descAlignY=55&descSize=16&descColor=ffffff"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=1E3A8A&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer+in+Progress;Open+Source+Contributor;Learning+Something+New+Every+Day" />
 
@@ -55,6 +55,6 @@ I'm passionate about building intelligent applications that solve real-world pro
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=khampadiya888@gmail.com)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0d1b4b,100:000000&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000C2D,50:002080,100:000C2D&height=100&section=footer"/>
 </div>
 
