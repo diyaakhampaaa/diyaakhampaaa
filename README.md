@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000C2D,50:002080,100:000C2D&height=180&section=header&text=Diya%20Khampa&fontSize=42&fontColor=fff&animation=twinSpin&fontAlignY=32&desc=B.Tech%20Information%20Technology%20'29&descAlignY=55&descSize=16&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B2A,50:0A1F6E,100:020B2A&height=180&section=header&text=Diya%20Khampa&fontSize=42&fontColor=fff&animation=twinSpin&fontAlignY=32&desc=B.Tech%20Information%20Technology%20'29&descAlignY=55&descSize=16&descColor=ffffff"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=1E3A8A&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer+in+Progress;Open+Source+Contributor;Learning+Something+New+Every+Day" />
 
