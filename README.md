@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hey there! I'm Diya Khampa
+# I'm DIYA KHAMPA
 
-### 🎓 B.Tech Information Technology '29
+### B.Tech Information Technology '29
 
 ### AI Engineer in Progress | Full-Stack Developer | Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer+in+Progress;Open+Source+Contributor;Learning+Something+New+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer+in+Progress;Open+Source+Contributor;Learning+Something+New+Every+Day" />
 
 <p>
 I'm passionate about building intelligent applications that solve real-world problems through Artificial Intelligence and Software Development. Currently exploring Machine Learning, Full-Stack Development, and Open Source while strengthening my problem-solving skills with Data Structures & Algorithms.
@@ -22,7 +22,7 @@ I'm passionate about building intelligent applications that solve real-world pro
 
  Currently focused on **Artificial Intelligence & Machine Learning**
 
- Learning **Full Stack Development**
+ **Full Stack Development**
 
  Solving **Data Structures & Algorithms** using **C++**
 
@@ -35,7 +35,7 @@ I'm passionate about building intelligent applications that solve real-world pro
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,mysql" />
 </p>
 
 **Also familiar with:** R
@@ -48,7 +48,7 @@ I'm passionate about building intelligent applications that solve real-world pro
 <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=NumPy,Pandas,Jupyter Notebook" />
+<img src="https://skillicons.dev/icons?i=NumPy,Pandas,JupyterNotebook" />
 </p>
 
 ---
