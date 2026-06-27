@@ -1,77 +1,58 @@
+
 <div align="center">
- 
-## DIYA KHAMPA
-### B.Tech Information Technology '29
 
-### AI Engineer in Progress | Full-Stack Developer | Open Source Contributor
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Diya%20Khampa&fontSize=42&fontColor=fff&animation=twinSpin&fontAlignY=32&desc=B.Tech%20Information%20Technology%20'29&descAlignY=55&descSize=16&descColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer+in+Progress;Open+Source+Contributor;Learning+Something+New+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer+in+Progress;Open+Source+Contributor;Learning+Something+New+Every+Day" />
 
-<p>
+<br/>
+
 I'm passionate about building intelligent applications that solve real-world problems through Artificial Intelligence and Software Development. Currently exploring Machine Learning, Full-Stack Development, and Open Source while strengthening my problem-solving skills with Data Structures & Algorithms.
-</p>
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
- **B.Tech Information Technology** (2029)
-
- Currently focused on **Artificial Intelligence & Machine Learning**
-
- Learning **Full Stack Development**
-
- Solving **Data Structures & Algorithms** using **C++**
-
- Contributing to **Open Source (GSSoC & Beginner-Friendly Projects)**
+-  **B.Tech Information Technology** (2029)
+-  Currently focused on **Artificial Intelligence & Machine Learning**
+-  Learning **Full Stack Development**
+-  Solving **Data Structures & Algorithms** using **C++**
+-  Contributing to **Open Source (GSSoC & Beginner-Friendly Projects)**
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 ### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,mysql" />
-</p>
-
-**Also familiar with:** R
-
----
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### AI & Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=opencv" />
-</p>
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-# Connect With Me
-
-<p align="left">
-
-💼 **LinkedIn**
-https://www.linkedin.com/in/diya-khampa-4b9851302/
-📧 **Email**
-[khampadiya888@gmail.com](mailto:khampadiya888@gmail.com)
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-khampa-4b9851302/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khampadiya888@gmail.com)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
 
