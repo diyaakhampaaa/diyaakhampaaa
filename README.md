@@ -1,7 +1,6 @@
 <div align="center">
-
-# Hey there! I'm Diya Khampa
-
+ 
+##DIYA KHAMPA
 ### B.Tech Information Technology '29
 
 ### AI Engineer in Progress | Full-Stack Developer | Open Source Contributor
